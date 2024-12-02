@@ -1,0 +1,94 @@
+{
+  "alumnos": [
+    {
+      "id": "29f0",
+      "nombre": "el xico julio ",
+      "rut": "20615259-1",
+      "imagen": "data:image/jpeg;base64,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",
+      "password": "$Miguel21$",
+      "isactive": true,
+      "email": "jm.jimenez@duocuc.cl"
+    },
+    {
+      "id": "b944",
+      "nombre": "eqwewqe",
+      "rut": "1315536153-45",
+      "imagen": "https://i.ibb.co/0V3TJFD/6116a7226dd5c7ceeaa983008f8a1774.jpg",
+      "password": "wqeqwe123",
+      "isactive": true,
+      "email": "qeweqwe@duoc.cl"
+    }
+  ],
+  "eventos": [
+    {
+      "idEvento": 101,
+      "imagen": "https://i.postimg.cc/LXMXkydf/hackathon2.jpg",
+      "nombreEvento": "Charla de Ciberseguridad",
+      "fecha": "2024-11-15",
+      "lugar": "Auditorio A",
+      "descripcion": "Únete a nosotros para una charla informativa sobre ciberseguridad, donde exploraremos los desafíos y las mejores prácticas para proteger nuestra información en un mundo digital en constante evolución. Esta sesión está diseñada para todos, desde principiantes hasta expertos en tecnología, y proporcionará conocimientos valiosos sobre cómo salvaguardar nuestros datos y mantenernos a salvo de amenazas cibernéticas.",
+      "coordinadorId": 1,
+      "id": "511e"
+    },
+    {
+      "idEvento": 102,
+      "imagen": "https://i.postimg.cc/0jkyFbyy/maxresdefault.jpg",
+      "nombreEvento": "Taller de Desarrollo Web",
+      "fecha": "2024-11-22",
+      "lugar": "Sala B",
+      "descripcion": "Te invitamos a participar en nuestra charla sobre desarrollo web, donde exploraremos las últimas tendencias, herramientas y técnicas para construir sitios web efectivos y atractivos. Esta sesión está diseñada para desarrolladores de todos los niveles, desde principiantes que buscan adentrarse en el mundo del desarrollo web hasta profesionales que desean actualizar sus habilidades.",
+      "coordinadorId": 1,
+      "id": "118e"
+    },
+    {
+      "idEvento": 103,
+      "imagen": "https://i.postimg.cc/yxL8HsDX/3-YPIDZ2-NURDJJDZKXYB2-DNE65-A.avif",
+      "nombreEvento": "Conferencia de Inteligencia Artificial",
+      "fecha": "2024-12-05",
+      "lugar": "Auditorio C",
+      "descripcion": "Te invitamos a asistir a nuestra conferencia sobre inteligencia artificial, un evento diseñado para explorar el impacto transformador de la IA en diversas industrias y su papel en la configuración del futuro. Esta conferencia reunirá a expertos, académicos y entusiastas para discutir los avances más recientes en inteligencia artificial y sus aplicaciones prácticas.",
+      "coordinadorId": 2,
+      "id": "41c0"
+    },
+    {
+      "idEvento": 104,
+      "imagen": "https://i.postimg.cc/ZRZbvC3x/Afiche-oficial-1.png",
+      "nombreEvento": "Expo Autos",
+      "fecha": "2024-10-19",
+      "lugar": "Patio Central",
+      "descripcion": "Te invitamos a asistir a nuestro Expo de Autos, un evento diseñado para explorar las últimas innovaciones y tendencias en la industria automotriz. Este expo reunirá a expertos, fabricantes, y entusiastas del mundo automovilístico para conocer de cerca los avances más recientes en tecnología automotriz, diseño, y sostenibilidad. ¡No te pierdas la oportunidad de descubrir lo último en vehículos y el futuro de la movilidad!",
+      "coordinadorId": 2,
+      "id": "581d"
+    },
+    {
+      "idEvento": 104,
+      "imagen": "https://i.postimg.cc/4d5J6sQk/header-portafolio-night-1024x578.jpg",
+      "nombreEvento": "Portfolio Night 2024",
+      "fecha": "2024-10-04",
+      "lugar": "Patio Central",
+      "descripcion": "¡Prepárate para Portfolio Night 2024! Este evento global, organizado por The One Club for Creativity, es una celebración de la creatividad y la innovación, que reunirá a mentes brillantes de todo el mundo. En esta edición, Portfolio Night se llevará a cabo de forma simultánea en 20 países, ofreciendo una oportunidad única para que jóvenes talentos del ámbito creativo puedan mostrar su trabajo, recibir valiosa retroalimentación y conectarse con algunos de los profesionales más influyentes de la industria.",
+      "coordinadorId": 2,
+      "id": "65cb"
+    }
+  ],
+  "qr": [
+    {
+      "id": "43da",
+      "nombreusuario": "el xico julio ",
+      "emailusuario": "jm.jimenez@duocuc.cl",
+      "rut": "20615259-1",
+      "nombreEvento": "Expo Autos",
+      "fecha": "2024-10-19",
+      "lugar": "Patio Central"
+    },
+    {
+      "id": "37d1",
+      "nombreusuario": "el xico julio ",
+      "emailusuario": "jm.jimenez@duocuc.cl",
+      "rut": "20615259-1",
+      "nombreEvento": "Conferencia de Inteligencia Artificial",
+      "fecha": "2024-12-05",
+      "lugar": "Auditorio C"
+    }
+  ]
+}
